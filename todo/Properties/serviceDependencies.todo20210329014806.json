@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cosmosdb1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.DocumentDB/databaseAccounts/andy29account",
+      "type": "cosmosdb.azure",
+      "connectionId": "CosmosDb",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
